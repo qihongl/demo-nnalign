@@ -1,5 +1,4 @@
 torch
-brainiak
 numpy 
 scikit-learn
 matplotlib 

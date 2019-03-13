@@ -1,0 +1,7 @@
+brainiak
+torch
+numpy
+matplotlib
+seaborn 
+sklearn
+hypertools==0.5.1

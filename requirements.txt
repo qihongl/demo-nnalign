@@ -1,6 +1,6 @@
+brainiak
 torch
 numpy 
 scikit-learn
 matplotlib 
 seaborn 
-brainiak

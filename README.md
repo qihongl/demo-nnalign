@@ -9,3 +9,9 @@ Shared Representational Geometry Across Neural Networks. arXiv [cs.LG].
 Retrieved from http://arxiv.org/abs/1811.11684
 ```
 This is the main repo: https://github.com/qihongl/nnsrm-neurips18
+
+
+
+By the end of this tutorial, you will get the following figure, which is similar to figure 2b in Lu et al. 2018. 
+
+<img src="https://github.com/qihongl/demo-nnalign/blob/master/imgs/3rsms.png" alt="3RSMS" height=270px>
